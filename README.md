@@ -2,4 +2,3 @@
 == struc
 for
 obwe
-for
